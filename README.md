@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0Orphan
-- 👀 I’m interested in cheating, hacking
-- 🌱 I’m currently learning python, C#
+- 👀 I’m interested in cheating, hacking and a bit more: CS; Python Programmer.; Cyber Security; AI; Math
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
